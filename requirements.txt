@@ -1,0 +1,31 @@
+# FastAPI and server
+fastapi
+uvicorn
+
+# MinIO Python SDK
+minio
+
+# MongoDB Python Client
+pymongo
+
+# Load environment variables
+python-dotenv
+
+# LangChain for RAG
+langchain
+
+# FAISS for Vector Store
+faiss-cpu
+
+# Huggingface for embeddings and LLM
+huggingface_hub
+sentence-transformers
+
+# Streamlit for frontend
+streamlit
+
+# Extra (if needed for parsing PDFs)
+pypdf
+
+# Optional if you want a better server reload experience
+watchdog
